@@ -1,5 +1,7 @@
 # Understanding AJAX with jQuery
 
+Change
+
 Today we're going to talk about Ajax, and how we can use jQuery to make Ajax requests.
 
 Ajax allows us to retreive data from a server or API without refreshing the entire page. Before Ajax, the entire page would need to refresh in order to retreive new data.
