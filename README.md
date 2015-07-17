@@ -57,7 +57,7 @@ Now when we click the button, we will end up with the response of our api in our
 
 Being able to console.log data is cool, and a great place to start, but we need to get that data into our DOM! 
 
-- Create an insertData function that takes the data, parses our it's valuable information, and writes it to the DOM
+- Create an insertData function that takes the data, parses out it's valuable information, and writes it to the DOM
 
 ``` javascript
   var insertData = function(arr) {
